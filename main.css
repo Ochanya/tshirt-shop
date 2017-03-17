@@ -1,0 +1,40 @@
+.right{float :right;}
+
+
+.container {
+        display: flex;
+}
+
+.imgstyle{
+  width: 100%;
+  padding:10px;
+  border: 1px solid rgba(128, 128, 128, 0.37);
+
+
+}
+
+.avatarimg{
+  width:9%;
+  height: 9%;
+  padding: 6px ;
+  border-radius:10px;
+
+
+}
+
+.navtext{
+
+  padding-left: 400px;
+  padding-top: 40px;
+}
+
+
+.article-style{
+  width: 33% ;
+  /*border: 1px solid rgba(128, 128, 128, 0.37);
+  border-radius:2px;*/
+  padding: 20px;
+
+}
+
+.end {justify-content:flex-end; }
